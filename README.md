@@ -1,6 +1,6 @@
-# SYNC-TECH
+# Tecly
 
-Esse é o SYNC-TECH, um site educativo que eu fiz para quem está começando a
+Esse é o Tecly, um site educativo que eu fiz para quem está começando a
 aprender programação. A ideia é mostrar o conteúdo de um jeito mais simples e
 visual, com trilhas de estudo, flashcards, vídeos educativos (dentro do youtube), um quiz e um ranking.
 
